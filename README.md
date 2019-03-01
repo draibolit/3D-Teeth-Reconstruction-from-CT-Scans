@@ -1,6 +1,6 @@
 # 3D Teeth Reconstruction from CT Scans
 
-This is the code for Computer Graphics course project in 2018 Fall to conduct 3D teeth reconstruction from CT scans, maintained by Kaiwen Zha and Han Xue.
+This is the code for Computer Graphics course project in 2018 Fall to conduct 3D teeth reconstruction from CT scans, maintained by [Kaiwen Zha](https://github.com/Sunshine-KaiwenZha) and [Han Xue](https://github.com/xiaoxiaoxh).
 
 ## Overview
   [3D Teeth Reconstruction from CT Scans](#3d-teeth-reconstruction-from-ct-scans)
